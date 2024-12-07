@@ -1,0 +1,12 @@
+PORT=5000 
+MONGODB_URI=mongodb+srv://beneficiary:11223344@cluster0.bnr7drh.mongodb.net/khidmat
+JWT_SECRET=khidmat
+
+
+
+# App-password is used for sending emails
+EMAIL=famin7733@gmail.com
+APP_PASSWORD=yktf yscl mror ppbm
+
+# STRIPE_SECRET_KEY2=sk_test_51Pt35iP2ehImy2wSWLzsB88KdvnKsnw9r0GGHVLuOzReEk3fPUA1Sl1dizdEk3OUq5u0eGZUUqpp0o3HG07rJmQ6005r4MHTKj
+# STRIPE_SECRET_KEY_ORDER=sk_test_51PzhF7Ee8GHOi2f3Wgvzn0FDe79vFy1x6HmVjoWmwmVEsEC7jFE5ZErEvNdDCU1o6Ap4NBDSzRZiMnIWEyTE1Cf500Vy3aLAnC
