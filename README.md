@@ -1,6 +1,21 @@
-# ap k input k jo check ha wo dobara lagane pare gy,
-# kia ap khi per toaster istaml karna chate ha
-# yeh link ha toaster k https://react-hot-toast.com/
-# owr jitne jaldi ho sake passay send kar do its very emergency for me.
-# owr agar koi owr issue ho to bta dena
-# owr aik dafa meating muj se zaroor karna sir k pass jane se pehle
+**Khidmat: Food Management and Donation System**  
+Khidmat is a web-based platform designed to reduce food waste and combat hunger by connecting surplus food providers, volunteers, and beneficiaries. It ensures that leftover or surplus food from restaurants, events, or individuals reaches those in need.  
+
+### Key Features:  
+1. **Surplus Food Collection**  
+   Restaurants, caterers, and individuals can list surplus food available for donation.  
+
+2. **Volunteer Coordination**  
+   Volunteers are notified to collect and distribute the food to nearby beneficiaries or organizations.  
+
+3. **Beneficiary Management**  
+   Ensures the donated food reaches deserving individuals or communities.  
+
+4. **Sponsors and Donor Engagement**  
+   Allows sponsors to support operational costs and promote sustainable food donation.  
+
+5. **Real-time Tracking**  
+   Tracks food collection, distribution, and status updates for transparency.  
+
+6. **User-friendly Interface**  
+   Seamless onboarding for donors, volunteers, and beneficiaries.  
